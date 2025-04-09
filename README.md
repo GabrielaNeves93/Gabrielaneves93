@@ -3,10 +3,10 @@
 
 **`Desenvolvedora Front End`**
 
-Me chamo Gabriela Gallaxia Neves, tenho 26 anos. Concluí o ensino médio, Atualmente, estou cursando Tecnologo Análise e Desenvolvimento de Sistemas na Anhanguera. 
+Me chamo Gabriela Gallaxia Neves, tenho 26 anos. Atualmente, estou cursando Tecnologo Análise e Desenvolvimento de Sistemas na Anhanguera. 
 
 "Código é poesia, e eu sou um eterno poeta da tecnologia!" 📝💻
-### 🤖 Linguagens e Tecnologia
+### 🤖 Linguagens 
  
 <img
           align="left"
@@ -30,32 +30,85 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
           title="JavaScript"
           width="50px"
           style="padding-right:10px;"                
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img
+          align="left"
+          alt="python"
+          title="python"
+          width="50px"
+          style="padding-right:10px;"  
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
           
 <img
           align="left"
-          alt="JavaScript"
-          title="JavaScript"
+          alt="nodejs"
+          title="nodejs"
           width="50px"
           style="padding-right:10px;"  
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
           
- <img
-          align="left"
-          alt="NODE"
-          title="NODE"
-          width="50px"
-          style="padding-right:10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
         
 <img
           align="left"
-          alt="GIT"
-          title="GIT"
+          alt="GITHUB"
+          title="GITHUB"
           width="50px"
           style="padding-right:10px;"       
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>      
- <br><br>     
+
+  <img
+         align="left"
+          alt="GIT"
+          title="GIT"
+          width="50px"
+          style="padding-right:10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+  
+
+ <img
+       align="left"
+          alt="PHP"
+          alt="PHP"
+          title="PHP"
+          width="50px"
+          style="padding-right:10px;"  
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
+   <img 
+         align="left"
+          alt="mysql"
+          title="mysql"
+          width="50px"
+          style="padding-right:10px;" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+
+
+   <img 
+         align="left"
+          alt="bootstrap"
+          title="bootstrap"
+          width="50px"
+          style="padding-right:10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+          
+
+ 
+
+
+  <img
+         align="left"
+          alt="Jquery"
+          title="Jquery"
+          width="50px"
+          style="padding-right:10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+          
+          
+
+ <br><br>         
+          
 
 ### 📊 Estatísticas 
 
