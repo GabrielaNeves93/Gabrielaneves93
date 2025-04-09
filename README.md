@@ -1,12 +1,10 @@
 
-# 👩🏻‍💻 Gabriela Gallaxia Neves
 
-**`Desenvolvedora Front End`**
+My name is Gabriela Gallaxia Neves, and I am 26 years old. I am currently pursuing a degree in Systems Analysis and Development (Tecnólogo) at Anhanguera.
 
-Me chamo Gabriela Gallaxia Neves, tenho 26 anos. Atualmente, estou cursando Tecnologo Análise e Desenvolvimento de Sistemas na Anhanguera. 
+Front-End Developer
 
-"Código é poesia, e eu sou um eterno poeta da tecnologia!" 📝💻
-### 🤖 Linguagens 
+🤖 Languagens
  
 <img
           align="left"
@@ -104,8 +102,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
           width="50px"
           style="padding-right:10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
-          
-          
+                   
 
  <br><br>         
           
