@@ -83,27 +83,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 
 
-   <img 
-         align="left"
-          alt="bootstrap"
-          title="bootstrap"
-          width="50px"
-          style="padding-right:10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-          
-
  
-
-
-  <img
-         align="left"
-          alt="Jquery"
-          title="Jquery"
-          width="50px"
-          style="padding-right:10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
-                   
- <br><br>         
           
 
 ### 📊 Estatísticas 
