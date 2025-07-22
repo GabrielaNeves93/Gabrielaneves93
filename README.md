@@ -2,7 +2,7 @@
 
 My name is Gabriela Gallaxia Neves, and I am 26 years old. I am currently pursuing a degree in Systems Analysis and Development (Tecnólogo) at Anhanguera.
 
-Front-End Developer
+Discovering the World of Programming
 
 🤖 Languagens
  
